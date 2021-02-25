@@ -1,0 +1,11 @@
+{
+    "name": "shohan494/nfp",
+    "description": "Simple php without any framework practice",
+    "authors": [
+        {
+            "name": "Shohan494",
+            "email": "shohan12224943@gmail.com"
+        }
+    ],
+    "require": {}
+}
