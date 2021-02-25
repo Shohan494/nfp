@@ -8,7 +8,8 @@
         }
     ],
     "require": {
-        "php": ">=7.0.0"
+        "php": ">=7.0.0",
+        "filp/whoops": "^2.9"
     },
     "autoload": {
         "psr-4": {
